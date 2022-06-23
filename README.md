@@ -1,2 +1,39 @@
 # newflutterproject
-A new flutter project creating
+A new flutter project creating example
+
+
+
+## Generator
+- flutter pub run build_runner build
+
+## popular commands
+- flutter pub get
+- flutter pub upgrade --major-versions
+- dart pub outdated --mode=null-safety
+- flutter pub outdated
+- dart pub get
+- dart migrate
+- flutter downgrade v1.2.1
+- flutter upgrade
+- flutter run --verbose
+## to view Performance 
+1. flutter run --profile --trace-skia 
+2. p 
+
+## additionals
+ios
+- cd ios
+- pod deintegrate
+- pod install
+cocoapod
+- sudo gem uninstall cocoapods
+- sudo gem install cocoapods
+- gem list
+web
+- flutter run -d chrome --web-renderer html
+
+## advanced
+- code ~/.
+- code ~/.zshrc
+
+
