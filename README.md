@@ -29,6 +29,12 @@ cocoapod
 - sudo gem uninstall cocoapods
 - sudo gem install cocoapods
 - gem list
+pod common error
+- cd ios
+- rm -rf ~/Library/Developer/Xcode/DerivedData
+- rm -rf ./ios/build
+- pod deintegrate && pod cache clean --all (OR) pod deintegrate && rm Podfile.lock && pod install --repo-update
+- pod install
 web
 - flutter run -d chrome --web-renderer html
 
