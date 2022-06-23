@@ -33,6 +33,7 @@ web
 - flutter run -d chrome --web-renderer html
 
 ## advanced
+- ~/.zshrc
 - code ~/.
 - code ~/.zshrc
 
