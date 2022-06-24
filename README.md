@@ -16,6 +16,7 @@ A new flutter project creating example
 - flutter downgrade v1.2.1
 - flutter upgrade
 - flutter run --verbose
+- flutter run --release
 ## to view Performance 
 1. flutter run --profile --trace-skia 
 2. p 
